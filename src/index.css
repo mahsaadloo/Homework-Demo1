@@ -70,15 +70,15 @@ button:focus-visible {
 } */
 
 button {
-  border: 1px solid #e11d48;
+  border: 1px solid #f43f5e;
   border-radius: 12px;
   padding: 6px 10px;
-  color: #e11d48;
+  color: #f43f5e;
   font-weight: 500;
   font-size: medium;
 }
 
 button:hover {
-  background-color: #e11d48;
+  background-color: #f43f5e;
   color: #ffe4e6;
 }

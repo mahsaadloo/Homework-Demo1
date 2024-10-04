@@ -1,7 +1,11 @@
-import { Navbar } from "./components";
+import { ButtonContent, Navbar } from "./components";
 
 function App() {
-  return <Navbar />;
+  return (
+    <>
+      <Navbar />
+    </>
+  );
 }
 
 export default App;
